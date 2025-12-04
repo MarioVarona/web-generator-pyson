@@ -1692,6 +1692,50 @@
 			"quote_author_de": "Martin Luther King Jr.",
 			"subsections": [
 				{
+					"img": "images/companies/logo_badger_maps.jpg",
+					"alt_en": "Badger Maps, Inc. logo",
+					"alt_es": "Logo de Badger Maps, Inc.",
+					"alt_de": "Badger Maps, Inc. Logo",
+					"title_en": "Talk \"Optimizing AI for Mobile: Choosing between server vs on-device LLMs An AI-Driven Development (AIDD) case\"",
+					"title_es": "Charla \"Optimización de IA para Móvil: Elegir entre LLMs en servidor o en dispositivo. Un caso de AIDD\"",
+					"title_de": "Vortrag \"Optimierung von KI für Mobile: Die Wahl zwischen Server- und On-Device-LLMs. Ein AIDD-Praxisfall.\"",
+					"meta_title_en": "Talk \"Optimizing AI for Mobile: Choosing between server vs on-device LLMs An AI-Driven Development (AIDD) case\" - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_es": "Charla \"Optimización de IA para Móvil: Elegir entre LLMs en servidor o en dispositivo. Un caso de AIDD\" - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_de": "Vortrag \"Optimierung von KI für Mobile: Die Wahl zwischen Server- und On-Device-LLMs. Ein AIDD-Praxisfall.\" - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"body_en": "2025<br/>Badger Maps, Inc.",
+					"body_es": "2025<br/>Badger Maps, Inc.",
+					"body_de": "2025<br/>Badger Maps, Inc.",
+					"gallery": [
+						{
+							"img": "images/volunteering/TTT25_1.jpg",
+							"alt_en": "Tech Talk: Optimizing AI for Mobile I",
+							"alt_es": "Charla Tech: Optimización de IA para Móvil I",
+							"alt_de": "Tech Vortrag: Optimierung von KI für Mobile I",
+							"img_title_en": "Tech Talk: Optimizing AI for Mobile I",
+							"img_title_es": "Charla Tech: Optimización de IA para Móvil I",
+							"img_title_de": "Tech Vortrag: Optimierung von KI für Mobile I",
+							"img_description_en": "",
+							"img_description_es": "",
+							"img_description_de": ""
+						},
+						{
+							"img": "images/volunteering/TTT25_2.jpg",
+							"alt_en": "Tech Talk: Optimizing AI for Mobile II",
+							"alt_es": "Charla Tech: Optimización de IA para Móvil II",
+							"alt_de": "Tech Vortrag: Optimierung von KI für Mobile II",
+							"img_title_en": "Tech Talk: Optimizing AI for Mobile II",
+							"img_title_es": "Charla Tech: Optimización de IA para Móvil II",
+							"img_title_de": "Tech Vortrag: Optimierung von KI für Mobile II",
+							"img_description_en": "",
+							"img_description_es": "",
+							"img_description_de": ""
+						}
+					]
+				},
+				{
 					"img": "images/companies/acm.png",
 					"alt_en": "ACM logo",
 					"alt_es": "Logo de ACM",

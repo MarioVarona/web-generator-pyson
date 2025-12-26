@@ -1,5 +1,9 @@
 {
-	"lans": ["en", "es", "de"],
+	"lans": [
+		"en",
+		"es",
+		"de"
+	],
 	"meta_title_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
 	"meta_title_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
 	"meta_title_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
@@ -163,7 +167,6 @@
 				}
 			]
 		},
-
 		{
 			"img": "images/briefcase.png",
 			"alt_en": "Briefcase icon",
@@ -912,8 +915,8 @@
 							"img_description_en": "",
 							"img_description_es": "",
 							"img_description_de": ""
-						}						
-					] 
+						}
+					]
 				},
 				{
 					"img": "images/projects/logo_todayist.png",
@@ -978,9 +981,9 @@
 					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
 					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
 					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-					"body_en": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Website built from scratch to promote a family residence on sale.<br/>Technologies and techniques used: HTML5, CSS3, responsive web design, Javascript.",
-					"body_es": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Sitio web creado desde cero con la finalidad de promocionar la venta de una vivienda familiar.<br/>Tecnologías y técnicas usadas: HTML5, CSS3, responsive web design, Javascript.",
-					"body_de": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Website von Grund auf neu erstellt, um den Verkauf eines Familienwohnsitzes zu fördern.<br/>Verwendete Technologien und Techniken: HTML5, CSS3, responsive web design, Javascript.",
+					"body_en": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Website built from scratch to promote an apartment on sale.<br/>Technologies and techniques used: HTML5, CSS3, responsive web design, Javascript.",
+					"body_es": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Sitio web creado desde cero con la finalidad de promocionar la venta de una vivienda.<br/>Tecnologías y técnicas usadas: HTML5, CSS3, responsive web design, Javascript.",
+					"body_de": "ElPisoDeBilbao.com<br/>(2013 - 2014)<br/><br/>Website von Grund auf neu erstellt, um den Verkauf eines Wohnsitzes zu fördern.<br/>Verwendete Technologien und Techniken: HTML5, CSS3, responsive web design, Javascript.",
 					"gallery": [
 						{
 							"img": "images/projects/elpisodebilbao_1.png",
@@ -1621,7 +1624,7 @@
 							"img_description_en": "",
 							"img_description_es": "",
 							"img_description_de": ""
-						}						
+						}
 					]
 				},
 				{
@@ -1667,7 +1670,7 @@
 							"img_description_de": ""
 						}
 					]
-				}	
+				}
 			]
 		},
 		{
@@ -1991,9 +1994,9 @@
 			"quote_author_en": "Doris Lessing",
 			"quote_author_es": "Doris Lessing",
 			"quote_author_de": "Doris Lessing",
-			"body_en": "<h3>iOS Development</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Android Development</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Web Development</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>SEO<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Agile Methodologies</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Communication</h3><br/>Teamwork<br/>Empathetic leadership",
-			"body_es": "<h3>Desarrollo iOS</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Desarrollo Android</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Desarrollo Web</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>SEO<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Metodologías Ágiles</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Comunicación</h3><br/>Trabajo en equipo<br/>Liderazgo empático",
-			"body_de": "<h3>iOS Entwicklung</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Android Entwicklung</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Web Entwicklung</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>SEO<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Agile Methodologien</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Kommunikation</h3><br/>Teamarbeit<br/>Empathische Führung"
+			"body_en": "<h3>iOS Development</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Android Development</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Web Development</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>FastAPI<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Agile Methodologies</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Communication</h3><br/>Teamwork<br/>Empathetic leadership",
+			"body_es": "<h3>Desarrollo iOS</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Desarrollo Android</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Desarrollo Web</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>FastAPI<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Metodologías Ágiles</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Comunicación</h3><br/>Trabajo en equipo<br/>Liderazgo empático",
+			"body_de": "<h3>iOS Entwicklung</h3><br/>Swift<br/>SwiftUI<br/>Objective-C<br/>UIKit<br/>TDD<br/>Clean Architecture<br/><br/><br/><h3/>Android Entwicklung</h3><br/>Java<br/>Kotlin<br/><br/><br/><h3>Big Data</h3><br/>Python<br/>Pandas<br/><br/><br/><h3>Web Entwicklung</h3><br/>HTML<br/>CSS<br/>JavaScript<br/>Vue.js<br/>jQuery<br/>PHP, MySQL, NoSQL (MongoDB, Firestore)<br/>Flask<br/>FastAPI<br/><br/><br/><h3>DevOps / CI / CD</h3><br/>Google Cloud Platform<br/>GitHub Actions<br/>Fastlane<br/><br/><br/><h3>Agile Methodologien</h3><br/>Scrum<br/>Kanban<br/><br/><br/><h3>Kommunikation</h3><br/>Teamarbeit<br/>Empathische Führung"
 		},
 		{
 			"img": "images/medal.png",
@@ -2017,23 +2020,23 @@
 			"quote_author_de": "",
 			"subsections": [
 				{
-				  "img": "images/companies/alumni_usal.png",
-				  "alt_en": "Alumni University of Salamanca's Logo",
-				  "alt_es": "Logo de Alumni Universidad de Salamanca",
-				  "alt_de": "Alumni Universität Salamanca Logo",
-				  "title_en": "Magna Cum Laude Award at the I Cum Laude Awards for Young Talent, 2025",
-				  "title_es": "Magna Cum Laude en los I Premios Cum Laude al Talento Joven, 2025",
-				  "title_de": "Magna-Cum-Laude-Preis - 1. Cum-Laude-Preisverleihung für junge Talente, 2025",
-				  "meta_title_en": "Magna Cum Laude Award 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "meta_title_es": "Premio Magna Cum Laude 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "meta_title_de": "Magna-Cum-Laude-Preis 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-				  "body_en": "In recognition of academic and professional achievements, and social commitment. Organized by the University of Salamanca Alumni and the General Foundation of the University of Salamanca.",
-				  "body_es": "En reconocimiento a la trayectoria académica, profesional, y compromiso social. Organizados por Alumni Universidad de Salamanca, y Fundación General Universidad de Salamanca.",
-				  "body_de": "Auszeichnung für akademische Exzellenz, berufliche Laufbahn und gesellschaftliches Engagement. Veranstaltet von der Alumni-Vereinigung der Universität Salamanca und der Stiftung der Universität Salamanca.",
-				  "gallery": [
+					"img": "images/companies/alumni_usal.png",
+					"alt_en": "Alumni University of Salamanca's Logo",
+					"alt_es": "Logo de Alumni Universidad de Salamanca",
+					"alt_de": "Alumni Universität Salamanca Logo",
+					"title_en": "Magna Cum Laude Award at the I Cum Laude Awards for Young Talent, 2025",
+					"title_es": "Magna Cum Laude en los I Premios Cum Laude al Talento Joven, 2025",
+					"title_de": "Magna-Cum-Laude-Preis - 1. Cum-Laude-Preisverleihung für junge Talente, 2025",
+					"meta_title_en": "Magna Cum Laude Award 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_es": "Premio Magna Cum Laude 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_de": "Magna-Cum-Laude-Preis 2025 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"body_en": "In recognition of academic and professional achievements, and social commitment. Organized by the University of Salamanca Alumni and the General Foundation of the University of Salamanca.",
+					"body_es": "En reconocimiento a la trayectoria académica, profesional, y compromiso social. Organizados por Alumni Universidad de Salamanca, y Fundación General Universidad de Salamanca.",
+					"body_de": "Auszeichnung für akademische Exzellenz, berufliche Laufbahn und gesellschaftliches Engagement. Veranstaltet von der Alumni-Vereinigung der Universität Salamanca und der Stiftung der Universität Salamanca.",
+					"gallery": [
 						{
 							"img": "images/awards/cumlaude_1.jpg",
 							"alt_en": "Cum Laude Awards for Young Talent",
@@ -2109,59 +2112,59 @@
 					]
 				},
 				{
-		          "img": "images/companies/ubu.png",
-		          "alt_en": "University of Burgos's Logo",
-		          "alt_es": "Logo de la Universidad de Burgos",
-		          "alt_de": "Universität Burgos Logo",
-		          "title_en": "Extraordinary Master's Degree Award 2022",
-		          "title_es": "Premio Extraordinario Fin de Máster 2022",
-		          "title_de": "Außergewöhnlicher Master-Abschlusspreis 2022",
-		          "meta_title_en": "Extraordinary Master's Degree Award 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_es": "Premio Extraordinario Fin de Máster 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_de": "Außergewöhnlicher Master-Abschlusspreis 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "body_en": "Awarded by the University of Burgos, associated with the Official Master's Degree in Business Intelligence and Big Data in Cyber-Secure Environments, completed with an average grade of 3.67/4 GPA, and with a final thesis grade of 3.92/4 GPA.",
-		          "body_es": "Otorgado por la Universidad de Burgos, asociado al Máster Oficial en Inteligencia de Negocio y Big Data en Entornos Seguros, finalizado con nota media de 9,17, y con nota de TFM de 9,8.",
-		          "body_de": "Verliehen von der Universität Burgos, im Zusammenhang mit dem Interuniversitärer Master in Business Intelligence und Big Data in Cybersicherheitsumgebungen, abgeschlossen mit einer Durchschnittsnote von 1,5 und einer Note für die Masterarbeit von 1,12."
-		        },
+					"img": "images/companies/ubu.png",
+					"alt_en": "University of Burgos's Logo",
+					"alt_es": "Logo de la Universidad de Burgos",
+					"alt_de": "Universität Burgos Logo",
+					"title_en": "Extraordinary Master's Degree Award 2022",
+					"title_es": "Premio Extraordinario Fin de Máster 2022",
+					"title_de": "Außergewöhnlicher Master-Abschlusspreis 2022",
+					"meta_title_en": "Extraordinary Master's Degree Award 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_es": "Premio Extraordinario Fin de Máster 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_de": "Außergewöhnlicher Master-Abschlusspreis 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"body_en": "Awarded by the University of Burgos, associated with the Official Master's Degree in Business Intelligence and Big Data in Cyber-Secure Environments, completed with an average grade of 3.67/4 GPA, and with a final thesis grade of 3.92/4 GPA.",
+					"body_es": "Otorgado por la Universidad de Burgos, asociado al Máster Oficial en Inteligencia de Negocio y Big Data en Entornos Seguros, finalizado con nota media de 9,17, y con nota de TFM de 9,8.",
+					"body_de": "Verliehen von der Universität Burgos, im Zusammenhang mit dem Interuniversitärer Master in Business Intelligence und Big Data in Cybersicherheitsumgebungen, abgeschlossen mit einer Durchschnittsnote von 1,5 und einer Note für die Masterarbeit von 1,12."
+				},
 				{
-		          "img": "images/companies/ubu.png",
-		          "alt_en": "University of Burgos's Logo",
-		          "alt_es": "Logo de la Universidad de Burgos",
-		          "alt_de": "Universität Burgos Logo",
-		          "title_en": "TCUE Market-Driven Prototypes Contest 2022 Award",
-		          "title_es": "TCUE - Premio TCUE Prototipos Orientados al Mercado 2022",
-		          "title_de": "TCUE Market-Driven Prototypes Contest 2022 Auszeichnung",
-		          "meta_title_en": "TCUE Market-Driven Prototypes Contest 2022 Award - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_es": "TCUE - Premio TCUE Prototipos Orientados al Mercado 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_de": "TCUE Market-Driven Prototypes Contest 2022 Auszeichnung - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "body_en": "One of the six awarded in the Market-Driven Prototypes Contest of the University of Burgos, for the master thesis \"Online recommendation system of Spanish municipalities based on user preferences and similarity across municipalities\".",
-		          "body_es": "Uno de los seis premiados en el Concurso de Prototipos Orientados al Mercado de la Universidad de Burgos, por el TFM \"Sistema de recomendación de municipios españoles en línea basado en las preferencias del usuario y en la similitud entre municipios\".",
-		          "body_de": "Einer der sechs Preisträger des Wettbewerbs für marktorientierte Prototypen der Universität Burgos für die Masterarbeit \"Online-Empfehlungssystem für spanische Gemeinden auf der Grundlage von Benutzerpräferenzen und Ähnlichkeit zwischen Gemeinden\"."
-		        },
-		        {
-		          "img": "images/companies/cyl.png",
-		          "alt_en": "Regional Government Castile and Leon's Logo",
-		          "alt_es": "Logo de la Junta de Castilla y León",
-		          "alt_de": "Logo der Regionalregierung von Kastilien und León",
-		          "title_en": "2nd Prize - 5th Edition of the Open Data Contest, 2021",
-		          "title_es": "2º Premio - V Concurso de Datos Abiertos de la Junta de Castilla y León, 2021",
-		          "title_de": "2. Preis - 5. Ausgabe des Open Data Contest, 2021",
-		          "meta_title_en": "2nd Prize - 5th Edition of the Open Data Contest - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_es": "2º Premio - V Concurso de Datos Abiertos de la Junta de Castilla y León - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_title_de": "2. Preis - 5. Ausgabe des Open Data Contest - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
-		          "body_en": "Ideas category of the 5th Edition of the Open Data Contest by Castilla y León Regional Government, for the master thesis \"Online recommendation system of Spanish municipalities based on user preferences and similarity across municipalities\".",
-		          "body_es": "Categoría Ideas del V Concurso de Datos Abiertos de la Junta de Castilla y León, por el TFM \"Sistema de recomendación de municipios españoles en línea basado en las preferencias del usuario y en la similitud entre municipios\".",
-		          "body_de": "Ideen-Kategorie der 5. Ausgabe des Open Data Contest der Regionalregierung von Castilla y León, für die Masterarbeit \"Online-Empfehlungssystem für spanische Gemeinden auf der Grundlage von Benutzerpräferenzen und Ähnlichkeit zwischen Gemeinden\"."
-		        },
+					"img": "images/companies/ubu.png",
+					"alt_en": "University of Burgos's Logo",
+					"alt_es": "Logo de la Universidad de Burgos",
+					"alt_de": "Universität Burgos Logo",
+					"title_en": "TCUE Market-Driven Prototypes Contest 2022 Award",
+					"title_es": "TCUE - Premio TCUE Prototipos Orientados al Mercado 2022",
+					"title_de": "TCUE Market-Driven Prototypes Contest 2022 Auszeichnung",
+					"meta_title_en": "TCUE Market-Driven Prototypes Contest 2022 Award - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_es": "TCUE - Premio TCUE Prototipos Orientados al Mercado 2022 - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_de": "TCUE Market-Driven Prototypes Contest 2022 Auszeichnung - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"body_en": "One of the six awarded in the Market-Driven Prototypes Contest of the University of Burgos, for the master thesis \"Online recommendation system of Spanish municipalities based on user preferences and similarity across municipalities\".",
+					"body_es": "Uno de los seis premiados en el Concurso de Prototipos Orientados al Mercado de la Universidad de Burgos, por el TFM \"Sistema de recomendación de municipios españoles en línea basado en las preferencias del usuario y en la similitud entre municipios\".",
+					"body_de": "Einer der sechs Preisträger des Wettbewerbs für marktorientierte Prototypen der Universität Burgos für die Masterarbeit \"Online-Empfehlungssystem für spanische Gemeinden auf der Grundlage von Benutzerpräferenzen und Ähnlichkeit zwischen Gemeinden\"."
+				},
+				{
+					"img": "images/companies/cyl.png",
+					"alt_en": "Regional Government Castile and Leon's Logo",
+					"alt_es": "Logo de la Junta de Castilla y León",
+					"alt_de": "Logo der Regionalregierung von Kastilien und León",
+					"title_en": "2nd Prize - 5th Edition of the Open Data Contest, 2021",
+					"title_es": "2º Premio - V Concurso de Datos Abiertos de la Junta de Castilla y León, 2021",
+					"title_de": "2. Preis - 5. Ausgabe des Open Data Contest, 2021",
+					"meta_title_en": "2nd Prize - 5th Edition of the Open Data Contest - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_es": "2º Premio - V Concurso de Datos Abiertos de la Junta de Castilla y León - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_title_de": "2. Preis - 5. Ausgabe des Open Data Contest - Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_en": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_es": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"meta_description_de": "Mario Varona - Mobile & Web Development • Big Data • Cybersecurity",
+					"body_en": "Ideas category of the 5th Edition of the Open Data Contest by Castilla y León Regional Government, for the master thesis \"Online recommendation system of Spanish municipalities based on user preferences and similarity across municipalities\".",
+					"body_es": "Categoría Ideas del V Concurso de Datos Abiertos de la Junta de Castilla y León, por el TFM \"Sistema de recomendación de municipios españoles en línea basado en las preferencias del usuario y en la similitud entre municipios\".",
+					"body_de": "Ideen-Kategorie der 5. Ausgabe des Open Data Contest der Regionalregierung von Castilla y León, für die Masterarbeit \"Online-Empfehlungssystem für spanische Gemeinden auf der Grundlage von Benutzerpräferenzen und Ähnlichkeit zwischen Gemeinden\"."
+				},
 				{
 					"img": "images/companies/usal.png",
 					"alt_en": "University of Salamanca's Logo",
@@ -2329,10 +2332,9 @@
 						"last_update_de": "03.2023",
 						"bg_card": "bg-dark"
 					}
-				]					
+				]
 			}
 		},
-
 		{
 			"img": "images/memo.png",
 			"alt_en": "Notebook icon",
